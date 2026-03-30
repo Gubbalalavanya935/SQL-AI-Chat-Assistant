@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.2
+sqlalchemy==2.0.25
+pymysql==1.1.0
+langchain==0.2.0
+langchain-core==0.2.0
+langchain-groq==0.1.4
+python-dotenv==1.0.1
+SpeechRecognition==3.10.1
+pyaudio==0.2.13
